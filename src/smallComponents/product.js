@@ -13,7 +13,7 @@ const ProductCard = styled.div`
   
   &:hover .overlay {
     opacity: 1;
-  }
+  } 
 `;
 
 const ProductImageWrapper = styled.div`
